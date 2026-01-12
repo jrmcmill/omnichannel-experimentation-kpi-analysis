@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data outputs (optional – adjust if you want to commit data)
+data/raw/
+data/processed/
+
+# OS files
+.DS_Store
+
+# Environments
+.env
+.venv
+
+venv/
+__pycache__/
+.ipynb_checkpoints/
+data/raw/*.csv
+data/processed/*.csv
+
