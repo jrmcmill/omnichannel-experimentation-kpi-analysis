@@ -1,4 +1,4 @@
-# 🧪 Omnichannel Fulfillment Experimentation & KPI Optimization
+# 📊 Omnichannel Fulfillment Experimentation & KPI Optimization
 
 ## Overview
 This project simulates and analyzes controlled omnichannel fulfillment experiments to evaluate tradeoffs between delivery speed, operational cost, and guest experience.
